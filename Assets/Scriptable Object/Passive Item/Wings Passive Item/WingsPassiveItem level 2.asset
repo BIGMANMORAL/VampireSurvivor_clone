@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1862a47c11b0a74982dbe08aa2ee655, type: 3}
+  m_Name: WingsPassiveItem level 2
+  m_EditorClassIdentifier: Assembly-CSharp::PassiveItemScriptableObject
+  multipler: 75
+  level: 2
+  nextLevelPrefab: {fileID: 0}
+  icon: {fileID: -2094562624, guid: 1fb7316b49e867447bbec4fec6fc4ce2, type: 3}
